@@ -274,7 +274,7 @@ allure serve allure-results
 ### Resultados SauceLabs
 
 <div align="center" style="margin: 50px 0;">
-  <img src="screenshots/Results on Visual Studio Code .png" alt="Results Sauce" width="600">
+  <img src="screenshots/Results on SauceLabs.png" alt="Results Sauce" width="600">
   <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
     <em>Resultados en SauceLabs (4 Completed)</em>
   </p>
