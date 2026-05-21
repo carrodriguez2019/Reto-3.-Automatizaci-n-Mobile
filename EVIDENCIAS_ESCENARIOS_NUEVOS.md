@@ -145,7 +145,7 @@ _PLAY_BUTTON = (AppiumBy.ID, "io.appium.android.apis:id/startButton")
 </figure>
 
 <figure align="center">
-  <img src="screenshots/Preference/test_explore_animation_feature (Allure).png" alt="Allure" width="400" height="400">
+  <img src="screenshots/Animation/test_explore_animation_feature (Allure).png" alt="Allure" width="400" height="400">
 <figcaption>Test Explore Animation Feature (Allure)</figcaption>
 </figure>
 
