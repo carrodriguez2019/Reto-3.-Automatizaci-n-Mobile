@@ -58,15 +58,16 @@ test_appiumdemo_saucelabs.py
 
 #### Identificación de Elementos
 
+
 <figure align="center" style="margin: 40px 0; text-align: center;">
-  <img src="screenshots/Preference/Preference Option (Appium Inspector).png" alt="Preference en Home" width="600">
+  <img align="center" src="screenshots/Preference/Preference Option (Appium Inspector).png" alt="Preference en Home" width="600">
   <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
     Identificación de la etiqueta Preference en Appium Inspector
   </figcaption>
 </figure>
 
 <figure align="center" style="margin: 40px 0; text-align: center;">
-  <img src="screenshots/Preference/Switch Option (Appium Inspector).png" alt="Switch en Preference" width="600">
+  <img align="center" src="screenshots/Preference/Switch Option (Appium Inspector).png" alt="Switch en Preference" width="600">
   <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
     Identificación de la etiqueta Switch en Appium Inspector
   </figcaption>
