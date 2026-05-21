@@ -60,12 +60,14 @@ test_appiumdemo_saucelabs.py
 
 <figure align="center">
   <img src="screenshots/Preference/Preference Option (Appium Inspector).png" alt="Preference en Home" width="400" height="400">
-<figcaption>Identificación de la etiqueta Preference en Appium Inspector</figcaption>
+<figcaption>Identificación de la etiqueta Preference en Appium Inspector
+</figcaption>
 </figure>
 
 <figure align="center">
   <img src="screenshots/Preference/Switch Option (Appium Inspector).png" alt="Switch en Preference" width="400" height="400">
-<figcaption>Identificación de la etiqueta Switch en Appium Inspector</figcaption>
+<figcaption>Identificación de la etiqueta Switch en Appium Inspector
+</figcaption>
 </figure>
 
 #### Localizadores Identificados
@@ -85,7 +87,7 @@ _PREFERENCE = (AppiumBy.ACCESSIBILITY_ID, "Preference")
 
 <figure align="center">
   <img src="screenshots/Preference/Result Preference Option (SauceLabs Video).png" alt="Sauce" width="400" height="400">
-<figcaption>Pantalla Final Video en SauceLabs</figcaption>
+  <figcaption>Pantalla Final Video en SauceLabs</figcaption>
 </figure>
 
 <figure align="center">
@@ -141,7 +143,8 @@ _PLAY_BUTTON = (AppiumBy.ID, "io.appium.android.apis:id/startButton")
 
 <figure align="center">
   <img src="screenshots/Animation/Result Animation Option (SauceLabs Video).png" alt="Sauce" width="400" height="400">
-<figcaption>Pantalla Final Video en SauceLabs</figcaption>
+<figcaption>Pantalla Final Video en SauceLabs
+</figcaption>
 </figure>
 
 <figure align="center">
