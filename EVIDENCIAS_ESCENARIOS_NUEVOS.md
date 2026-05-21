@@ -58,21 +58,23 @@ test_appiumdemo_saucelabs.py
 
 #### Identificación de Elementos
 
+<div align="center" style="margin: 50px 0;">
+  <img src="screenshots/Preference/Preference Option (Appium Inspector).png" alt="Preference en Home" width="600">
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Identificación de la etiqueta Preference en Appium Inspector</em>
+  </p>
+</div>
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
-  <img align="center" src="screenshots/Preference/Preference Option (Appium Inspector).png" alt="Preference en Home" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Identificación de la etiqueta Preference en Appium Inspector
-  </figcaption>
-</figure>
+---
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
-  <img align="center" src="screenshots/Preference/Switch Option (Appium Inspector).png" alt="Switch en Preference" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Identificación de la etiqueta Switch en Appium Inspector
-  </figcaption>
-</figure>
+<div align="center" style="margin: 50px 0;">
+  <img src="screenshots/Preference/Switch Option (Appium Inspector).png" alt="Switch en Preference" width="600">
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Elemento Switch en la pantalla Preference</em>
+  </p>
+</div>
 
+---
 
 #### Localizadores Identificados
 ```python
@@ -89,19 +91,20 @@ _PREFERENCE = (AppiumBy.ACCESSIBILITY_ID, "Preference")
 ✅ Pasos Allure: 4
 ```
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
-  <img src="screenshots/Preference/Result Preference Option (SauceLabs Video).png" alt="Sauce" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Pantalla Final Video en SauceLabs
-  </figcaption>
-</figure>
+<div align="center" style="margin: 50px 0;">
+  <img src="screenshots/Preference/Result Preference Option (SauceLabs Video).png" alt="Resultado SauceLabs" width="600">
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Pantalla Final Video en SauceLabs</em>
+  </p>
+</div>
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
+---
+<div align="center" style="margin: 50px 0;">
   <img src="screenshots/Preference/test_navigate_preference_menu (Allure).png" alt="Allure" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Test Navigate Preference Menu (Allure)
-  </figcaption>
-</figure>
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Test Navigate Preference Menu (Allure)</em>
+  </p>
+</div>
 
 ---
 
@@ -149,19 +152,20 @@ _PLAY_BUTTON = (AppiumBy.ID, "io.appium.android.apis:id/startButton")
 ✅ Pasos Allure: 5
 ```
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
+<div align="center" style="margin: 50px 0;">
   <img src="screenshots/Animation/Result Animation Option (SauceLabs Video).png" alt="Sauce" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Pantalla Final Video en SauceLabs
-  </figcaption>
-</figure>
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Pantalla Final Video en SauceLabs</em>
+  </p>
+</div>
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
-  <img src="screenshots/Animation/test_explore_animation_feature (Allure).png" alt="Allure" width="400" height="400">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Test Explore Animation Feature
-  </figcaption>
-</figure>
+---
+<div align="center" style="margin: 50px 0;">
+  <img src="screenshots/Animation/test_explore_animation_feature (Allure).png" alt="Allure" width="600">
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Test Explore Animation Feature</em>
+  </p>
+</div>
 
 ---
 
@@ -258,33 +262,32 @@ allure serve allure-results
 ### Resultados Visual Code
 
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
+<div align="center" style="margin: 50px 0;">
   <img src="screenshots/Results on Visual Studio Code .png" alt="Results VSC" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Resultados en visual code (4 Passed)
-  </figcaption>
-</figure>
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Resultados en visual code (4 Passed)</em>
+  </p>
+</div>
 
 ---
 
 ### Resultados SauceLabs
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
+<div align="center" style="margin: 50px 0;">
   <img src="screenshots/Results on Visual Studio Code .png" alt="Results Sauce" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Resultados en SauceLabs (4 Completed)
-  </figcaption>
-</figure>
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em>Resultados en SauceLabs (4 Completed)</em>
+  </p>
+</div>
 
 ---
 ### Resultados Allure
 
-<figure align="center" style="margin: 40px 0; text-align: center;">
+<div align="center" style="margin: 50px 0;">
   <img src="screenshots/Allure report.png" alt="Allure" width="600">
-  <figcaption style="font-size: 12px; color: #777; margin-top: 8px;">
-    Allure report
-  </figcaption>
-</figure>
-
+  <p style="font-size: 11px; color: #888; margin: 12px 0 0 0;">
+    <em> Allure report</em>
+  </p>
+</div>
 
 ---
